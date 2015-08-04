@@ -1,0 +1,10 @@
+@import "libs/reset.css";
+@import "fonts/lato.css";
+body {
+  font-family: 'latoregular', sans-serif;
+  color: #1f1f20;
+}
+.image {
+  width: 25%;
+  display: inline-block;
+}
