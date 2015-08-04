@@ -2,7 +2,7 @@
 
 Ejercicio tomado de [GITHUB PLATZI](https://github.com/platzi/ejemplo-reflux)
 Este es un ejemplo de la arquitectura [Reflux](https://github.com/spoike/refluxjs), inspirada en [Flux](https://facebook.github.io/flux/).
-Autor: [Sacha Lifszyc](https://github.com/slifszyc) | [@slifszyc](http://twitter.com/slifszyc) | sacha.lifszyc@gmail.com
+y basada en el ejercio original del autor: [Sacha Lifszyc](https://github.com/slifszyc) | [@slifszyc](http://twitter.com/slifszyc) | sacha.lifszyc@gmail.com
 
 ## Instrucciones
 
